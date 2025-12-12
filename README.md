@@ -1,6 +1,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-# Walmart_Sparkathon
+# Walmart(Sparkathon) 
+Tryllect – AI Fashion Assistant
+◦ Multilingual voice-activated AI fashion shopping platform
+◦ Virtual try-on with pose detection & skin tone-based recommendations
+◦ Integrated skin-tone based recommendations to personalize outfit
+suggestions. Also added collaborative cart-splitting feature.
+
 =======
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -45,7 +51,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 >>>>>>> 3204f3c (Initial commit from Create Next App)
 =======
-# Walmart(Sparkathon) - Trylectt
+
 
 Tryllect – AI Fashion Assistant
 ◦ Multilingual voice-activated AI fashion shopping platform
