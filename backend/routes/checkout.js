@@ -1,6 +1,7 @@
 
 const express = require('express');
 const router = express.Router();
+require('dotenv').config();
 const Stripe = require('stripe');
 const stripe = new Stripe(process.env.SENDGRID_API_KEY);
 
